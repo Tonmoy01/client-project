@@ -1,0 +1,8 @@
+.info-header,
+.verify-header,
+.upload-header {
+  background: #4dbad6;
+  background: linear-gradient(to left, #4dbad6 0%, #348cf4 50%, #7b48e8 100%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

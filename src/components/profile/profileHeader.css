@@ -1,0 +1,16 @@
+.profile-header {
+  background: linear-gradient(
+    90deg,
+    rgba(253, 225, 222, 1) 17%,
+    rgba(243, 121, 124, 1) 51%,
+    rgba(190, 44, 117, 1) 80%
+  );
+}
+
+.balance-card {
+  background: linear-gradient(
+    90deg,
+    rgba(33, 37, 41, 1) 51%,
+    rgba(33, 34, 41, 1) 99%
+  ) !important;
+}

@@ -1,0 +1,8 @@
+.top-header {
+  background: linear-gradient(
+    90deg,
+    rgba(60, 62, 172, 1) 0%,
+    rgba(96, 133, 231, 1) 28%,
+    rgba(153, 32, 181, 1) 58%
+  );
+}
